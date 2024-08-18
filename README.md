@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/81435775-86ed-406c-9f3e-82ec92780096)
+
 # Installation Guide
 The project is compatible with Python 3.10
 
